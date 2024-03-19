@@ -1,1 +1,1 @@
-Este foi meu segundo prijeto HTML.
+Este foi meu segundo projeto HTML.
